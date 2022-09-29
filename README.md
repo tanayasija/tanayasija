@@ -3,7 +3,7 @@
 - I'm interested in all aspects of software systems ranging from their applications in embedded and data-centre computing as well as the role played by computer architecture and interconnect technologies to determine its performance.
 - 🌱 I’m currently learning GPU programming on CUDA
 - 💞️ I’m looking to collaborate on any projects involving system software inclusive of building architectural simulators, embedded systems and 
-large scale distributed and stroage systems
+large scale distributed and storage systems
 - 📫 How to reach me Feel free to contact me at 
   - Email: tanay.asija@gmail.com
   - LinkedIn: https://www.linkedin.com/in/tanayasija/
